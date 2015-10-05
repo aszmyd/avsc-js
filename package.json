@@ -2,11 +2,8 @@
   "name": "avsc-js",
   "version": "1.0.2",
   "description": "Javascript umd module for avsc",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "author": "aszmyd <adam.szmyd@polcode.net>",
+  "license": "MIT",
   "devDependencies": {
     "avsc": "1.0.2",
     "uglify-loader": "^1.2.0",
