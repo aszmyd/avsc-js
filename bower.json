@@ -1,0 +1,22 @@
+{
+  "name": "avsc-js",
+  "version": "0.0.80",
+  "homepage": "https://github.com/8eo/bluegrass",
+  "authors": [
+    "aszmyd <adam.szmyd@polcode.net>"
+  ],
+  "description": "",
+  "main": "dist/avsc-js.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib",
+    "test",
+    "tests"
+  ]
+}
